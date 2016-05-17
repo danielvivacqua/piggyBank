@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\piggyBank\piggyBank\bin\Debug\piggyBank.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\piggyBank\piggyBank\bin\Debug\piggyBank.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\piggyBank\piggyBank\bin\Debug\piggyBank.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\piggyBank\piggyBank\obj\Debug\piggyBank.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\piggyBank\piggyBank\obj\Debug\piggyBank.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\piggyBank\piggyBank\obj\Debug\piggyBank.pdb
